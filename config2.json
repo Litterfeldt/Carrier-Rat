@@ -1,0 +1,9 @@
+{
+    "servers": [
+      {
+        "hostName": "www.litterfeldt.com",
+        "backends": ["www.litterfeldt.com", "kata.litterfeldt.com"],
+        "loads" : [0.7, 0.3]
+      }
+    ]
+}
